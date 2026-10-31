@@ -19,7 +19,7 @@ Open to freelance work and full-time roles in web development or AI-assisted aut
 | [Portfolio Website](https://github.com/sknapp1991/sknapp1991.github.io) | This site. | HTML/CSS/JS |
 | [Business Websites](https://github.com/sknapp1991/business-websites) | Client sites — a resale storefront (migrated from Vinted, Firebase backend + admin panel) and a booking site for a paint-night & tarot-reading business. | HTML/CSS/JS, Firebase, Cloudflare Tunnel |
 | [RedditTales336](https://github.com/sknapp1991/reddit-tales-336) | Automated Reddit-story-to-Shorts video pipeline (AI scripts, local TTS, FFmpeg). | Python, PowerShell, FFmpeg |
-| [Resume Builder](https://github.com/sknapp1991/resume-template-generator) | Node.js backend behind a local resume business — generates resumes across 7 layouts and 13 color palettes. | Node.js, docx generation |
+| [Resume Builder](https://github.com/sknapp1991/resume-template-generator) | Node.js backend behind [Resumes by Skylar](https://resumesbyskylar.com), a local done-for-you resume business — generates resumes across 7 layouts and 13 color palettes. | Node.js, docx generation |
 | [AI Coloring Book Generator](https://github.com/sknapp1991/coloring-book-generator) | Pipeline for generating printable children's coloring books. | Python, AI image generation |
 
 <!-- Fix any repo URL above if you rename a repo once it's pushed. -->
