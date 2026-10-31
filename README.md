@@ -6,7 +6,7 @@ and I use AI tooling (Claude Code, local TTS/image models) as part of the actual
 not just as a gimmick.
 
 **Portfolio:** https://sknapp1991.github.io
-**Contact:** knappstadawg@yahoo.com
+**Contact:** sknapp1991@gmail.com
 
 Open to freelance work and full-time roles in web development or AI-assisted automation.
 
