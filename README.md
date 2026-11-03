@@ -1,25 +1,26 @@
 # Hi, I'm Skylar 👋
 
-Web developer & AI-assisted automation builder based in Rock Hill, SC.
-I ship small-business websites, e-commerce storefronts, and content automation pipelines —
-and I use AI tooling (Claude Code, local TTS/image models) as part of the actual workflow,
-not just as a gimmick.
+I build websites, apps and automations with **Claude Code**. I'm based in Rock Hill, SC, with a background
+in technical support leadership at General Motors.
 
-**Portfolio:** https://sknapp1991.github.io
-**Contact:** sknapp1991@gmail.com
+**Portfolio:** https://sknapp1991.github.io &nbsp;·&nbsp; **Email:** sknapp1991@gmail.com
+<!-- Add once created:  · **LinkedIn:** https://www.linkedin.com/in/skylarknapp  · **X:** https://x.com/HANDLE -->
 
-Open to freelance work and full-time roles in web development or AI-assisted automation.
+Open to roles in **AI automation, AI implementation, and technical support / solutions for AI products.**
 
 ---
 
-## Projects
+## Featured
 
-| Project | What it is | Stack |
+| Project | What it is | Built with |
 |---|---|---|
-| [Portfolio Website](https://github.com/sknapp1991/sknapp1991.github.io) | This site. | HTML/CSS/JS |
-| [Business Websites](https://github.com/sknapp1991/business-websites) | Client sites — a resale storefront (migrated from Vinted, Firebase backend + admin panel) and a booking site for a paint-night & tarot-reading business. | HTML/CSS/JS, Firebase, Cloudflare Tunnel |
-| [RedditTales336](https://github.com/sknapp1991/reddit-tales-336) | Automated Reddit-story-to-Shorts video pipeline (AI scripts, local TTS, FFmpeg). | Python, PowerShell, FFmpeg |
-| [Resume Builder](https://github.com/sknapp1991/resume-template-generator) | Node.js backend behind [Resumes by Skylar](https://resumesbyskylar.com), a local done-for-you resume business — generates resumes across 7 layouts and 13 color palettes. | Node.js, docx generation |
-| [AI Coloring Book Generator](https://github.com/sknapp1991/coloring-book-generator) | Pipeline for generating printable children's coloring books. | Python, AI image generation |
+| [**Verses Across**](https://github.com/sknapp1991/snoopwiggy) · [live](https://snoopwiggy.com) | Free scripture-study app. Read texts side by side in many languages on desktop or phone. 17 public-domain Bibles in 11 languages so far, imported from licence-verified sources (never AI-generated). Android app in progress. | Next.js, TypeScript, Cloudflare Workers |
+| [**Paper-trading research bots**](https://sknapp1991.github.io/trading-bots.html) *(case study, code private)* | Two always-on systems that paper-trade live markets so every strategy proves itself before real money is involved. Grew from a starter prompt that didn't work into full systems with 820+ tests, live dashboards, reports, backups, phone alerts. | Python, Docker, GitHub Actions |
+| [**Websites**](https://github.com/sknapp1991/business-websites) | Simple sites for my cousin and me: [210 Thrifty Ninja](https://210thriftyninja.com) (resale shop, 380+ listings moved from Vinted) and [Resumes by Skylar](https://resumesbyskylar.com) (my side resume service). | HTML/CSS/JS, Firebase |
 
-<!-- Fix any repo URL above if you rename a repo once it's pushed. -->
+
+## How I work
+
+I build everything with Claude Code. I describe what I want, run what comes back, and keep going until it works.
+Bigger projects get a written plan and are built in phases. Some, like the trading bots, get as far as they can
+and then run and collect real data until the next step on the roadmap makes sense.
