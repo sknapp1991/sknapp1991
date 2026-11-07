@@ -1,7 +1,7 @@
 # Hi, I'm Skylar 👋
 
 I build websites, apps and automations with **Claude Code**. I'm based in the Charlotte, NC area, with a background
-in technical support leadership at General Motors.
+in technical support leadership on the General Motors account at Teleperformance.
 
 **Portfolio:** https://skylarknapp.com &nbsp;·&nbsp; **Email:** skylar@skylarknapp.com &nbsp;·&nbsp; **X:** [@SkylarBuilds](https://x.com/SkylarBuilds) &nbsp;·&nbsp; **LinkedIn:** [skylarknapp](https://www.linkedin.com/in/skylarknapp)
 
