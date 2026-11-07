@@ -3,7 +3,7 @@
 I build websites, apps and automations with **Claude Code**. I'm based in Rock Hill, SC, with a background
 in technical support leadership at General Motors.
 
-**Portfolio:** https://skylarknapp.com &nbsp;·&nbsp; **Email:** sknapp1991@gmail.com
+**Portfolio:** https://skylarknapp.com &nbsp;·&nbsp; **Email:** skylar@skylarknapp.com
 <!-- Add once created:  · **LinkedIn:** https://www.linkedin.com/in/skylarknapp  · **X:** https://x.com/HANDLE -->
 
 Open to roles in **AI automation, AI implementation, and technical support / solutions for AI products.**
