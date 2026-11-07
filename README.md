@@ -3,8 +3,7 @@
 I build websites, apps and automations with **Claude Code**. I'm based in the Charlotte, NC area, with a background
 in technical support leadership at General Motors.
 
-**Portfolio:** https://skylarknapp.com &nbsp;·&nbsp; **Email:** skylar@skylarknapp.com
-<!-- Add once created:  · **LinkedIn:** https://www.linkedin.com/in/skylarknapp  · **X:** https://x.com/HANDLE -->
+**Portfolio:** https://skylarknapp.com &nbsp;·&nbsp; **Email:** skylar@skylarknapp.com &nbsp;·&nbsp; **X:** [@SkylarBuilds](https://x.com/SkylarBuilds)
 
 Open to roles in **AI automation, AI implementation, and technical support / solutions for AI products.**
 
@@ -14,7 +13,7 @@ Open to roles in **AI automation, AI implementation, and technical support / sol
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**Verses Across**](https://github.com/sknapp1991/verses-across) · [live](https://versesacross.com) | Free scripture-study app. Read texts side by side in many languages on desktop or phone. 17 public-domain Bibles in 11 languages so far, imported from licence-verified sources (never AI-generated). Android app in progress. | Next.js, TypeScript, Cloudflare Workers |
+| [**Verses Across**](https://github.com/sknapp1991/verses-across) · [live](https://versesacross.com) | Free scripture-study app. Read texts side by side in many languages on desktop or phone. 111 versions of 78 works in 15 languages, from the Bible and Quran to the Pali Canon, imported from license-verified public-domain sources (the few AI translations are clearly labelled). Android app in progress. | Next.js, TypeScript, Cloudflare Workers |
 | [**Paper-trading research bots**](https://skylarknapp.com/trading-bots.html) *(case study, code private)* | Two always-on systems that paper-trade live markets so every strategy proves itself before real money is involved. Grew from a starter prompt that didn't work into full systems with 1,500+ tests, live dashboards, reports, backups, phone alerts. | Python, Docker, GitHub Actions |
 
 **Also built:** [210 Thrifty Ninja](https://210thriftyninja.com) (my cousin's resale shop) and [Resumes by Skylar](https://resumesbyskylar.com) (my resume service).
