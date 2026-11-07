@@ -24,3 +24,4 @@ Open to roles in **AI automation, AI implementation, and technical support / sol
 Everything here is built with Claude Code.
 
 - **Right model for each job:** within a project, Fable reviews, Opus plans, Sonnet builds, Haiku fetches.
+- **Connecting projects sideways:** instead of stacking more layers of agents on one project, I've started connecting separate projects sideways. Each runs in its own Claude session, but they keep a shared notebook of what they've learned and can message each other while they work. One project's fix becomes the other's head start.
