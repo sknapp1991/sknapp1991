@@ -1,6 +1,6 @@
 # Hi, I'm Skylar 👋
 
-I build websites, apps and automations with **Claude Code**. I'm based in Rock Hill, SC, with a background
+I build websites, apps and automations with **Claude Code**. I'm based in the Charlotte, NC area, with a background
 in technical support leadership at General Motors.
 
 **Portfolio:** https://skylarknapp.com &nbsp;·&nbsp; **Email:** skylar@skylarknapp.com
