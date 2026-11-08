@@ -15,6 +15,7 @@ Open to roles in **AI automation, AI implementation, and technical support / sol
 |---|---|---|
 | [**Verses Across**](https://github.com/sknapp1991/verses-across) · [live](https://versesacross.com) | Free scripture-study app. Read texts side by side in many languages on desktop or phone. 111 versions of 78 works in 15 languages, from the Bible and Quran to the Pali Canon, imported from license-verified public-domain sources (the few AI translations are clearly labelled). Read-along audio, Hebrew/Greek word lookup, cross-references across traditions, and offline downloads. | Next.js, TypeScript, Cloudflare Workers |
 | [**Paper-trading research bots**](https://skylarknapp.com/trading-bots.html) *(case study, code private)* | Two always-on research systems that watch live market data and trade pretend money. Grew from a starter prompt that didn't work into full systems with 1,700+ tests, live dashboards, reports, backups, phone alerts. | Python, Docker, GitHub Actions |
+| [**Verses Across socials**](https://skylarknapp.com/social-automation.html) *(case study)* | A Claude Code setup that turns what ships in the app into clips and posts for Instagram, TikTok, YouTube and Facebook, with a second model checking every post before it goes out. | Claude Code, Claude in Chrome, Node.js, ffmpeg |
 
 **Also built:** [210 Thrifty Ninja](https://210thriftyninja.com) (my cousin's resale shop) and [Resumes by Skylar](https://resumesbyskylar.com) (my resume service).
 
